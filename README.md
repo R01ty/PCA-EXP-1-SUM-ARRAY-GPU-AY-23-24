@@ -2,7 +2,7 @@
 <H3> NAME : RAGUL E </H3>
 <H3> REGISTER NUMBER : 212221043005 </H3>
 <H3>EXPERIMENT NO : 01 </H3>
-<H3>DATE  :  </H3>
+<H3>DATE  :14.02.2024  </H3>
 
 ## SUM ARRAY ON HOST AND DEVICE:
 PCA-GPU-based-vector-summation.-Explore-the-differences.
@@ -30,7 +30,7 @@ Google Colab with NVCC Compiler
 6. Copy output data from the device to the host and verify the results against the host's sequential vector addition. Free memory on the host and the device.
 
 ## PROGRAM:
-```python
+```c
 #include <cuda_runtime.h>
 #include <stdio.h>
 
